@@ -20,7 +20,7 @@ Here are some of the projects I've worked on:
 
 
 ## Let's Connect!
-- LinkedIn: (https://www.linkedin.com/in/dudekula-moulabi-0ab757258/)
+- LinkedIn:[LinkedIn profile](https://www.linkedin.com/in/dudekula-moulabi-0ab757258/)
 
 ---
 
