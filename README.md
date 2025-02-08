@@ -1,26 +1,33 @@
 # Hi there, I'm Dudekula Moulabi! 👋
 
-Welcome to my GitHub profile! I'm passionate about  software development and I love building projects that solve real-world problems.
+Welcome to my GitHub profile! I'm passionate about software development and love building projects that solve real-world problems.
 
 ## About Me
-
-- 🌱 I’m currently learning **Fullstack webdevelopment**.
-- 👯 I’m looking to collaborate on **webdevelopment projects**.
-- 💬 Ask me about **Java,HTML,CSS,Bootstrap**.
+- 🌱 I’m currently learning **Fullstack Web Development**.
+- 👯 I’m looking to collaborate on **web development projects**.
+- 💬 Ask me about **Java, HTML, CSS, Bootstrap**.
 - 📫 How to reach me: **dudekulamoulabi4@gmail.com**.
+
 ## My Skills
-### Languages
-- [ JavaScript, Java]
-### Tools & Technologies
-- [Git]
+### Frontend
+- HTML, CSS, JavaScript, Bootstrap
+
+### Backend
+- Java
+
+### Tools
+- Git, GitHub
 
 ## My Projects
 Here are some of the projects I've worked on:
-- **[Project 1](https://github.com/moulabidudekula/spotify-clone)** - Spotify-clone
+- **[Spotify Clone](https://github.com/moulabidudekula/spotify-clone)** - A web-based music player inspired by Spotify. Built using **HTML and CSS**.
 
+## Goals
+- Learn **MongoDB** **Express** **React.js**  and **Node.js** to build full-stack applications.
+- Contribute to open-source projects.
 
 ## Let's Connect!
-- LinkedIn:[LinkedIn profile](https://www.linkedin.com/in/dudekula-moulabi-0ab757258/)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/dudekula-moulabi-0ab757258/)
 
 ---
 
