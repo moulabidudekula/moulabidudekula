@@ -28,7 +28,7 @@ Here are some of the projects I've worked on:
 
 ## Let's Connect!
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/dudekula-moulabi-0ab757258/)
-
+ # Happy Coding :)
 ---
 
 ⭐️ Feel free to explore my repositories and reach out if you'd like to collaborate or chat!
