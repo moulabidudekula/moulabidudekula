@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about software development and love building projects that solve real-world problems.
 
 ## About Me
-- 🌱 I’m currently learning **Fullstack Web Development**.
+- 🌱 I’m currently learning **Mern Stack Web Development**.
 - 👯 I’m looking to collaborate on **web development projects**.
 - 💬 Ask me about **Java, HTML, CSS, Bootstrap**.
 - 📫 How to reach me: **dudekulamoulabi4@gmail.com**.
