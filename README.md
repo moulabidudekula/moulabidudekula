@@ -21,6 +21,8 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 ## My Projects
 Here are some of the projects I've worked on:
 - **[Spotify Clone](https://github.com/moulabidudekula/spotify-clone)** - A web-based music player inspired by Spotify. Built using **HTML and CSS**.
+- **[Weather App](https://github.com/moulabidudekula/Weather_APP)** - A web-based music player inspired by Spotify. Built using **HTML and CSS**.
+- **[ToDo App](https://github.com/moulabidudekula/ToDO_APP)** - A web-based music player inspired by Spotify. Built using **HTML and CSS**.
 
 ## Goals
 - Learn **MongoDB** **Express** **React.js**  and **Node.js** to build full-stack applications.
