@@ -22,6 +22,7 @@ Welcome to my GitHub profile! I'm passionate about software development and love
 
 ## My Projects
 Here are some of the projects I've worked on:
+- **[TechCareer-Prep](https://github.com/moulabidudekula/techcareer-Prep)** 
 - **[Spotify Clone](https://github.com/moulabidudekula/spotify-clone)** 
 - **[Weather App](https://github.com/moulabidudekula/Weather_APP)** 
 - **[ToDo App](https://github.com/moulabidudekula/ToDo_APP)** 
